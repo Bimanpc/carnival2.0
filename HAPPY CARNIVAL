@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style2 {
+	text-align: left;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.auto-style3 {
+	text-decoration: underline;
+	text-align: center;
+}
+.auto-style4 {
+	text-decoration: underline;
+	text-align: left;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body onload="FP_preloadImgs(/*url*/'button3.jpg',/*url*/'button4.jpg')">
+
+<p class="auto-style1"><strong>HAPPY CARNIVAL 2.0</strong></p>
+<p class="auto-style1"><strong>HOW OPEN DMG IN WINDOWS 10/11</strong></p>
+<h3>Open DMG Files with DMG Extractor</h3>
+<p><strong>DMG extractor</strong> provide a choice for extracting DMG files. The<a href="https://www.dmgextractor.com/free-download/" rel="noopener noreferrer" target="_blank">&nbsp;free 
+version</a>&nbsp;works well, but have some limitations:</p>
+<ul>
+	<li>You cannot extract files bigger than 4 GB</li>
+	<li>You cannot extract encrypted files</li>
+	<li>You can only extract 5 files at a time, which can be a pain if you need 
+	to extract an entire DMG file.</li>
+</ul>
+<p>If you need any of the features on that list, you’ll have to purchase the PRO&nbsp; 
+version<strong> ($9.95)</strong>. After&nbsp;install DMG Extractor, all you have to 
+do is double-click your DMG file to open it up. You can browse the files right 
+in the DMG Extractor window if you just want to see what’s inside the DMG file.</p>
+<h2 aria-level="2" class="auto-style3" role="heading"><em>Download the ISO 
+Directly from&nbsp; Microsoft’s Website</em></h2>
+<p aria-level="2" class="auto-style3" role="heading">&nbsp;</p>
+<p>To download&nbsp; the Windows 11 multi-edition ISO as a direct download 
+through your browser, visit Microsoft’s Windows 11 download page. Scroll down to 
+the “Download Windows 11 Disk Image (ISO)” section, then select “Windows 11 
+(multi-edition ISO)” in the list. Next, select the product language and click 
+“Confirm.”</p>
+<p aria-level="2" class="auto-style4" role="heading">Next, click the “64-bit 
+Download” button that appears, and the ISO file will download to your computer.</p>
+<p class="auto-style2">&nbsp;</p>
+<p class="auto-style1">
+<a href="http://vasiliypc.ulti.eu.org/My%2520scrptakia/GeeFrezyness.html"><em>
+<img id="img1" alt="Happy Geekz by Vasiya" height="20" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button4.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button2.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button3.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button3.jpg')" src="button2.jpg" style="border: 0" width="100" /></em><!-- MSComment="ibutton" fp-style="fp-btn: Corporate 1" fp-title="Happy Geekz by Vasiya" --></a></p>
+<p><img height="393" src="Google-Shortcuts-for-Firefox_4.png" width="856" /></p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
